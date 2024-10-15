@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\bin\Debug\net8.0\PrimerContactoC2.exe
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\bin\Debug\net8.0\PrimerContactoC2.deps.json
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\bin\Debug\net8.0\PrimerContactoC2.runtimeconfig.json
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\bin\Debug\net8.0\PrimerContactoC2.dll
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\bin\Debug\net8.0\PrimerContactoC2.pdb
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\PrimerContactoC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\PrimerContactoC2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\PrimerContactoC2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\PrimerContactoC2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\PrimerContactoC2.dll
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\refint\PrimerContactoC2.dll
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\PrimerContactoC2.pdb
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\PrimerContactoC2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PrimerContactoC2\PrimerContactoC2\obj\Debug\net8.0\ref\PrimerContactoC2.dll
